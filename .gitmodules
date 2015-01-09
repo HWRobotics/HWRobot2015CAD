@@ -1,0 +1,3 @@
+[submodule "FRCKOP2015"]
+	path = FRCKOP2015
+	url = https://github.com/HWRobotics/FRCKOP2015.git
